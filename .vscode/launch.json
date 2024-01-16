@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open practise1.html",
+            "file": "c:\\Users\\Teja LIT\\Desktop\\react js\\lit_signin_page\\task1\\practise1.html"
+        }
+    ]
+}
